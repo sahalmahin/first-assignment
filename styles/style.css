@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Work Sans', sans-serif;
 }
+/* First Section */
 
 .first-section {
     background-image: url("../images/banner/banner3.png");
@@ -48,6 +49,7 @@
     padding-right: 250px;
     padding-top: 30px;
 }
+/* Seceond Section */
 
 .seceond-section {
     display: flex;
@@ -82,6 +84,7 @@
     line-height: 22px;
     color: #444343;
 }
+/* Main */
 
 .myplan {
     text-align: center;
@@ -113,6 +116,8 @@
     font-weight: 800;
     color: #737272;
 }
+
+/* Third Section */
 
 .third-section {
     background-image: url("../images/watch.png");
@@ -151,6 +156,8 @@ border-radius: 5px;
 border: 0;
 color: rgb(61, 61, 248);
 }
+
+/* Footer */
 
 footer {
     background-color: black;
